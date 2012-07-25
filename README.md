@@ -1,4 +1,0 @@
-dmanager
-========
-
-document manager
